@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.col-12 {
+  padding: 10px;
+  background-color: #53A4F3;
+}
+
+.col-10 {
+  padding: 10px;
+  background-color: #3B8004;
+}
+
+.col-8 {
+  padding: 10px;
+  background-color: #1F01FF;
+}
+
+.col-6 {
+  padding: 10px;
+  background-color: #E62E2D;
+}
+
+.col-4 {
+  padding: 10px;
+  background-color: #FDFF00;
+}
+
+.col-2 {
+  padding: 10px;
+  background-color: #801580;
+}
